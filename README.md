@@ -1,2 +1,2 @@
-# BootstrapOdev3
- www.patika.dev BootstrapOdev3
+* Linkedin Clone Bootstrap
+> Thanks [www.patika.dev](https://www.patika.dev/tr)

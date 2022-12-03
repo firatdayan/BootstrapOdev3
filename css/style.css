@@ -36,6 +36,8 @@ input.searche::placeholder {
 
 button.mediatext {
   color: #5f5f5f;
+  background-color: white;
+  border: none;
 }
 
 button.mediatext:hover {
@@ -68,10 +70,6 @@ input.content::placeholder {
   background-image: url(/bootstraplinkedinclone/assets/edit-regular.svg);
   background-repeat: no-repeat;
   background-size: auto;
-}
-
-div.card {
-  border-radius: 10px;
 }
 
 .header {
@@ -110,6 +108,8 @@ li {
 
 button.ref {
   color: white;
+  background-color: white;
+  border: none;
 }
 
 button.ref:hover {
